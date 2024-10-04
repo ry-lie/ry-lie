@@ -2,7 +2,7 @@
 <!-- 가운데 정렬 -->
 <div align="center">
 
-💜 $\bf{Rylie}$ 💜
+$\bf{Rylie}$
 <!-- 방문자수 -->
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fry-lie%2Fhit-counter&count_bg=%23D8AEE0&title_bg=%23675F67&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)  
 
