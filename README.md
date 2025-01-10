@@ -16,8 +16,4 @@ $\it{info}$ 🔍
 <!-- 깃허브 상태 -->
 [![Rylie's GitHub stats](https://github-readme-stats.vercel.app/api?username=ry-lie&include_all_commits=true&theme=material-palenight&hide_border=true&count_private=true)](https://github.com/ry-lie/github-readme-stats)
 
-
-<!-- 가운데 정렬 -->
 </div>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=c7b9d9&height=150&section=footer" />
-
