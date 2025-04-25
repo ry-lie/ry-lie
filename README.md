@@ -1,8 +1,8 @@
 <p align="center">
-  <img src=""/>
+  <img src="https://github.com/user-attachments/assets/5fdc1af7-7418-452f-b4e3-b3079a52eb4f" width="250"/>
 </p>
 
-## About Me
+## About Me ☺️
 👋 Hi there! I am Seobin
 
 💻 I love coding </br>
@@ -12,7 +12,7 @@
 
 <br>
 
-## Once I've Used
+## Once I've Used 🛠️
 <div>
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=black">
@@ -25,7 +25,7 @@
 
 <br>
 
-## Cowork tools
+## Cowork tools ⚙️
 <div>
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
@@ -33,6 +33,21 @@
 <div>
 
 <br>
+
+## Projects 📁
+<p>
+  <a href="https://github.com/ry-lie/pawpaw_front">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ry-lie&repo=pawpaw_front&theme=vue" />
+  </a>
+  <a href="https://github.com/ry-lie/Project2_oreore_backend">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ry-lie&repo=Project2_oreore_backend&theme=vue" />
+  </a>
+  <a href="https://github.com/ry-lie/todolo">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ry-lie&repo=todolo&theme=vue" />
+  </a>
+</p>
+
+</br>
 
 <!-- 깃허브 상태 -->
 [![Rylie's GitHub stats](https://github-readme-stats.vercel.app/api?username=ry-lie&include_all_commits=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/ry-lie/github-readme-stats)
