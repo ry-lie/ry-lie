@@ -3,7 +3,7 @@
 </p>
 
 ## About Me ☺️
-👋 Hi there! I am Seobin
+👋 Hi there! I am Seobin (Rylie)
 
 💻 I love coding </br>
 🌱 On my journey to becoming a frontend developer </br>
