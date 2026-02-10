@@ -8,8 +8,10 @@
 💻 I love coding </br>
 🌱 On my journey to becoming a frontend developer </br>
 📚 Sharing what I learn as I grow, check out my [Velog](https://velog.io/@rylie916)! </br>
-📫 How to reach me: tjqls0916@gmail.com
-
+📫 How to reach me: tjqls0916@gmail.com / 
+<a href="https://www.linkedin.com/in/seobin-lee-389310305/">
+  🔗 LinkedIn
+</a>
 <br>
 
 ## Once I've Used 🛠️
