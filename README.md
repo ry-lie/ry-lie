@@ -31,25 +31,3 @@
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
 <div>
-
-<br>
-
-## Projects 📁
-<p>
-  <a href="https://github.com/ry-lie/pawpaw_front">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ry-lie&repo=pawpaw_front&theme=vue" />
-  </a>
-  <a href="https://github.com/ry-lie/Project2_oreore_backend">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ry-lie&repo=Project2_oreore_backend&theme=vue" />
-  </a>
-  <a href="https://github.com/ry-lie/todolo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ry-lie&repo=todolo&theme=vue" />
-  </a>
-</p>
-
-</br>
-
-<!-- 깃허브 상태 -->
-[![Rylie's GitHub stats](https://github-readme-stats.vercel.app/api?username=ry-lie&include_all_commits=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/ry-lie/github-readme-stats)
-
-</div>
