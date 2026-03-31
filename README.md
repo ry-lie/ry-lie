@@ -1,6 +1,13 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/5fdc1af7-7418-452f-b4e3-b3079a52eb4f" width="200"/>
+  <br>
+  🗒️ Portfolio: 
+  <a href="https://abundant-age-33b.notion.site/Portfolio-Seobin-Lee-32a56ebeb7d6809b9f55e405fd5ef558?source=copy_link">
+    Click Here!
+  </a>
 </p>
+
+
 
 ## About Me ☺️
 👋 Hi there! I am Seobin (Rylie)
