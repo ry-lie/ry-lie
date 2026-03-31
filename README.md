@@ -13,7 +13,7 @@
 👋 Hi there! I am Seobin (Rylie)
 
 💻 I love coding </br>
-🌱 On my journey to becoming a frontend developer </br>
+🌱 On my journey to becoming a software engineer </br>
 📚 Sharing what I learn as I grow, check out my [Velog](https://velog.io/@rylie916)! </br>
 📫 How to reach me: tjqls0916@gmail.com / 
 <a href="https://www.linkedin.com/in/seobin-lee-389310305/">
